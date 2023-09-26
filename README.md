@@ -1,3 +1,4 @@
+[Leia esta página em português](https://github.com/fdtschmitz/DriveUpdate/blob/main/README-pt.md)
 # DriveUpdate
 Simple usage of the PyDrive2 library. Iterate through a Google Drive root folder and return a list of folders and files.
 
