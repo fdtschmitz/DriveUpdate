@@ -1,3 +1,4 @@
+[Read this page in English](https://github.com/fdtschmitz/DriveUpdate/blob/main/README.md)
 # DriveUpdate
 Implementação simples para a biblioteca PyDrive2. Itere através de uma pasta raiz do Google Drive e retorne uma lista de pastas e arquivos.
 
